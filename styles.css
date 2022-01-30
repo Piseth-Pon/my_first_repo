@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    text-align: center;
+    background-image: url("https://cdn.pixabay.com/photo/2019/01/12/19/27/valentine-3929127_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px 10px;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: cursive;
+    letter-spacing: 5px;
+    color: #313552;
+    text-decoration: underline;
+}
+
+h2 {
+    color: #323232;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+
+h3 {
+    color: #313552;
+    letter-spacing: 3px;
+}
+
+h4 {
+    color: #D885A3;
+    letter-spacing: 3px;
+}
+p {
+    color: #FF6363;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
